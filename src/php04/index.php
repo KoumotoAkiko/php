@@ -67,6 +67,7 @@ $question=$options[mt_rand(0,3)];
 </div>
 </form>
 </div>
+<h1>プルリクエストのテスト用差分作った</h1>
 </main>
 </body>
 </html>
